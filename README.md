@@ -1,1 +1,1 @@
-Jupyter notebook that reads in the PDFs, gives both an analytic (or we will derive it by hand) and a numerical expression for the cross-section of some processes as a function of the width of the New Physics mediator. 
+Jupyter notebook that reads in the PDFs, gives both an analytic (or we will derive it by hand) and a numerical expression for the cross-section of some processes as a function of the width of the New Physics mediator, at lepton colliders.
